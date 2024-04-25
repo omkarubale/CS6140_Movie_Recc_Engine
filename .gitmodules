@@ -1,0 +1,12 @@
+[submodule "CollaborativeFiltering"]
+	path = CollaborativeFiltering
+	url = https://github.com/omkarubale/CS6140_Project_CollaborativeFiltering.git
+	branch = main
+[submodule "EmbeddingBasedFiltering"]
+	path = EmbeddingBasedFiltering
+	url = https://github.com/harsh4799/machine_learning_project
+	branch = main
+[submodule "ContentBasedFiltering"]
+	path = ContentBasedFiltering
+	url = https://github.com/ArchitBhonsle/the-movies-dataset
+	branch = main
